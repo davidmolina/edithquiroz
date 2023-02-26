@@ -4,4 +4,6 @@ title: About
 permalink: /about
 ---
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for your publication site or blog. You can find everything you need to get started under documentation. For more information on how to install and use this theme, check out [the documentation]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}).
+Hi, I'm Edith. An accomplished nonprofit executive, startup founder, radio host and proud mother of three, I help support non-profits in the areas of executive search & recruitment, interim directorships, diversity, equity and inclusion training and coaching, board training and development, strategic planning, and professional development training.
+
+Learn more [here](/about-edith-quiroz).
