@@ -1,4 +1,4 @@
-# Molinas Construction Company
+# Edith Quiroz Consulting
 
 Repo for [Edith Quiroz Consulting](https://www.linkedin.com/in/edithquiroz).
 
