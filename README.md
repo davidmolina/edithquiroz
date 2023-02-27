@@ -10,4 +10,4 @@ Get in touch via [LinkedIn](https://www.linkedin.com/in/edithquiroz).
 
 - git add .
 - git commit -am "short description"
-- git push origin master
+- git push
